@@ -1,4 +1,5 @@
-#Mã hóa - ENCODING
+# Mã hóa - ENCODING
+
 Mật mã để mở cửa phòng thực hành máy tính là một dãy gồm các chữ số từ 1 đến 9 – gọi là
 mã số, sinh viên muốn vào thực hành cần phải nhập đúng mã số này. Để đảm bảo an ninh, mã
 số sẽ được mã hóa thành thông điệp chỉ chứa các ký tự a, b và c theo quy tắc sau:
@@ -14,6 +15,7 @@ số sẽ được mã hóa thành thông điệp chỉ chứa các ký tự a, 
 | 7 | bac |
 | 8 | aac |
 | 9 | cac |
+
 Ví dụ mã số 132 sẽ được chuyển thành thông điệp accb.
 
 Trước buổi thực hành, giảng viên sẽ cung cấp thông điệp và sinh viên phải nhanh chóng tìm ra
