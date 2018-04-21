@@ -1,4 +1,4 @@
-# Mã hóa - ENCODING
+**Bài 1:**
 
 Mật mã để mở cửa phòng thực hành máy tính là một dãy gồm các chữ số từ 1 đến 9 – gọi là
 mã số, sinh viên muốn vào thực hành cần phải nhập đúng mã số này. Để đảm bảo an ninh, mã
