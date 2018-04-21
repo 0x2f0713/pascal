@@ -4,7 +4,7 @@ Một số nguyên gọi là palindrom nếu nó đọc từ trái sang cũng b�
 Dữ liệu vào: Cho trong tệp **BAI2.INP**
 
 Các số nhập từ bàn phím (các số có 2 đến 4 chữ số).
-**Kết quả:** Ghi ra tệp **BAI3.OUT**
+**Kết quả:** Ghi ra tệp **BAI2.OUT**
 Xuất ra màn hình các số nguyên gọi là palindrom.
 
 **Ví dụ:**
